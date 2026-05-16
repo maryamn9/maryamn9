@@ -67,4 +67,4 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 ---
 
 
-* Actively seeking opportunities in Data Analytics, Data Science, and AI — open to full-time, contract, or graduate roles.*
+**Actively seeking opportunities in Data Analytics, Data Science, and AI — open to full-time, contract, or graduate roles.**
