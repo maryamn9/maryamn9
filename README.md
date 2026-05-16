@@ -61,10 +61,8 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 
 ## 🤝 Let's Connect!
 
- - LikedIn: [https://www.linkedin.com/in/maryamnaveen/)](https://www.linkedin.com/in/maryamnaveen/)
+ - LikedIn: [https://www.linkedin.com/in/maryamnaveen/](https://www.linkedin.com/in/maryamnaveen/)
  - Email: maryamnaveen03@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryamnaveen)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamnaveen03@gmail.om)
 
 ---
 
