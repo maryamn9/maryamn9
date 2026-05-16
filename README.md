@@ -15,11 +15,11 @@
 
 I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science & AI**, passionate about turning raw data into meaningful insights and building intelligent solutions.
 
-- 🎓 MSc Applied CS & AI — with a thesis on **Down Syndrome detection via facial analysis** using MediaPipe, ResNet50, SVM, and YOLO11
-- 📊 Skilled in the full analytics pipeline: from **data wrangling** to **interactive dashboards**
-- 🤖 Exploring the intersection of **Machine Learning** and real-world data challenges
-- 🌍 Based in the **United Kingdom** — open to Data & AI roles
-- 💡 Currently working on a **30-day Data Analytics Challenge** (SQL · Python · Power BI · Tableau)
+- MSc Applied CS & AI — with a thesis on **Down Syndrome detection via facial analysis** using MediaPipe, ResNet50, SVM, and YOLO11
+- Practicing the full analytics pipeline: from **data wrangling** to **interactive dashboards**
+- Exploring the intersection of **Machine Learning** and real-world data challenges
+- Based in the  **Manchester,** **United Kingdom** — open to Data & AI roles
+- Currently working on a **30-day Data Analytics Challenge** (SQL · Python · Power BI · Tableau)
 
 ---
 
@@ -75,4 +75,3 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 
 
 * Actively seeking opportunities in Data Analytics, Data Science, and AI — open to full-time, contract, or graduate roles.*
-
