@@ -1,4 +1,4 @@
-# Hi 👋, I'm Maryam Naveen
+# Hi, I'm Maryam Naveen
 
 ### Data Analyst · AI & Machine Learning Enthusiast · Problem Solver
 
@@ -16,9 +16,9 @@
 I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science & AI**, passionate about turning raw data into meaningful insights and building intelligent solutions.
 
 - 🎓 MSc Applied CS & AI — with a thesis on **Down Syndrome detection via facial analysis** using MediaPipe, ResNet50, SVM, and YOLO11
-- 📊 Skilled in the full analytics pipeline: from **data wrangling** to **interactive dashboards**
+- 📊 Practicing in the full analytics pipeline: from **data wrangling** to **interactive dashboards**
 - 🤖 Exploring the intersection of **Machine Learning** and real-world data challenges
-- 🌍 Based in the **United Kingdom** — open to Data & AI roles
+- 🌍 Based in the  **Manchester** **United Kingdom** — open to Data & AI roles
 - 💡 Currently working on a **30-day Data Analytics Challenge** (SQL · Python · Power BI · Tableau)
 
 ---
@@ -62,8 +62,7 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryamn9&show_icons=true&theme=tokyonight&hide_border=true" alt="Maryam's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamn9&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+ ![Maryam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=maryamn9&theme=tokyonight&hide_border=true)
 </p>
 
 ---
@@ -75,4 +74,4 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 
 ---
 
-*💼 Actively seeking opportunities in Data Analytics, Data Science, and AI — open to full-time, contract, or graduate roles.*
+*Actively seeking opportunities in Data Analytics, Data Science, and AI — open to full-time, contract, or graduate roles.*
