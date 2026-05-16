@@ -16,9 +16,9 @@
 I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science & AI**, passionate about turning raw data into meaningful insights and building intelligent solutions.
 
 - 🎓 MSc Applied CS & AI — with a thesis on **Down Syndrome detection via facial analysis** using MediaPipe, ResNet50, SVM, and YOLO11
-- 📊 Practicing in the full analytics pipeline: from **data wrangling** to **interactive dashboards**
+- 📊 Skilled in the full analytics pipeline: from **data wrangling** to **interactive dashboards**
 - 🤖 Exploring the intersection of **Machine Learning** and real-world data challenges
-- 🌍 Based in the  **Manchester** **United Kingdom** — open to Data & AI roles
+- 🌍 Based in the **United Kingdom** — open to Data & AI roles
 - 💡 Currently working on a **30-day Data Analytics Challenge** (SQL · Python · Power BI · Tableau)
 
 ---
@@ -59,19 +59,20 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 
 ---
 
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-HERE)
+
+---
+
+
 ## 📈 GitHub Stats
 
 <p align="left">
  ![Maryam's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=maryamn9&theme=tokyonight&hide_border=true)
 </p>
 
----
 
-## 🤝 Let's Connect!
+* Actively seeking opportunities in Data Analytics, Data Science, and AI — open to full-time, contract, or graduate roles.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryamnaveen)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamnaveen03@gmail.com)
-
----
-
-*Actively seeking opportunities in Data Analytics, Data Science, and AI — open to full-time, contract, or graduate roles.*
