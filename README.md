@@ -18,8 +18,8 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 - MSc Applied CS & AI — with a thesis on **Down Syndrome detection via facial analysis** using MediaPipe, ResNet50, SVM, and YOLO11
 - Practicing the full analytics pipeline: from **data wrangling** to **interactive dashboards**
 - Exploring the intersection of **Machine Learning** and real-world data challenges
-- Based in the  **Manchester,** **United Kingdom** — open to Data & AI roles
-- Currently working on a **30-day Data Analytics Challenge** (SQL · Python · Power BI · Tableau)
+- Based in **Manchester, United Kingdom** — open to Data & AI roles
+- Completed a **30-Day Data Analytics Challenge** — 30 consecutive days across SQL · Python · Power BI · Tableau, incl. a 1.5M-row UK Road Accidents analysis
 
 ---
 
@@ -46,10 +46,10 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 - Partitioned facial region analysis using **MediaPipe** landmarks
 - Compared **ResNet50**, **SVM**, and **Random Forest** classifiers
 - Object detection pipeline with **YOLO11**
-- Built entirely in Python using Jupyter Notebook
+- 7 partitioned facial regions analysed independently for region-specific markers
 
 ### 📊 [Data Analytics Portfolio](https://github.com/maryamn9/data-analytics-portfolio)
-> 30-Day Analytics Challenge — Started May 2026
+> 30-Day Analytics Challenge — Completed
 - End-to-end projects using **SQL**, **Python**, **Power BI**, and **Tableau**
 - Real-world datasets with storytelling through data visualisation
 
@@ -61,7 +61,7 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 
 ## 🤝 Let's Connect!
 
- - LikedIn: [https://www.linkedin.com/in/maryamnaveen/](https://www.linkedin.com/in/maryamnaveen/)
+ - LinkedIn: [in/maryamnaveen](https://www.linkedin.com/in/maryamnaveen/)
  - Email: maryamnaveen03@gmail.com
 
 ---
