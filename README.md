@@ -1,6 +1,6 @@
 # Hi, I'm Maryam Naveen
 
-### Data Analyst · AI & Machine Learning Enthusiast · Problem Solver
+### Data Analyst · AI & Machine Learning Enthusiast
 
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,7 +18,7 @@ I'm a **Data Analyst & AI enthusiast** with an **MSc in Applied Computer Science
 - MSc Applied CS & AI — with a thesis on **Down Syndrome detection via facial analysis** using MediaPipe, ResNet50, SVM, and YOLO11
 - Practicing the full analytics pipeline: from **data wrangling** to **interactive dashboards**
 - Exploring the intersection of **Machine Learning** and real-world data challenges
-- - Based in **Manchester, UK** — actively seeking Data Analyst, Data Scientist, and AI roles (full-time, contract, or graduate)
+- Based in **Manchester, UK** — actively seeking Data Analyst, Data Scientist, and AI roles (full-time, contract, or graduate)
 - Completed a **30-Day Data Analytics Challenge** — 30 consecutive days across SQL · Python · Power BI · Tableau, incl. a 1.5M-row UK Road Accidents analysis
 
 ---
